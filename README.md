@@ -44,11 +44,11 @@ END
 
 ### OUTPUT:
 
-<img width="640" height="883" alt="image" src="https://github.com/user-attachments/assets/5fad1d79-b658-4f81-8605-f332d78a12e4" />
-<img width="640" height="802" alt="image" src="https://github.com/user-attachments/assets/e89091ff-21e3-41e7-95f1-4b8706ad17d7" />
+<img width="640" height="854" alt="image" src="https://github.com/user-attachments/assets/84e4a516-247f-4134-af2a-1fc6c7ec085f" />
+<img width="640" height="894" alt="image" src="https://github.com/user-attachments/assets/bc63ef9d-939a-4441-afdc-470238dd4c9c" />
 
-<img width="631" height="813" alt="image" src="https://github.com/user-attachments/assets/1ba203b3-bd03-442f-b4a3-e5a083ce1298" />
-<img width="640" height="837" alt="image" src="https://github.com/user-attachments/assets/1e1c5b92-ffdc-4cf8-816c-327de56069e4" />
+<img width="640" height="858" alt="image" src="https://github.com/user-attachments/assets/e6433a2d-6b61-4fe9-a0be-fa8825dfc420" />
+<img width="640" height="963" alt="image" src="https://github.com/user-attachments/assets/6a8dc7b0-554d-4242-acb5-823bcf0059c6" />
 
 ### RESULT:
 Thus the Serial transfer of Single Byte / Character using 8051 KEIL was done and shown the output.
