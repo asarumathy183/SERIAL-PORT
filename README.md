@@ -77,10 +77,8 @@ END
 
 ### OUTPUT:
 
-<img width="640" height="854" alt="image" src="https://github.com/user-attachments/assets/84e4a516-247f-4134-af2a-1fc6c7ec085f" />
 <img width="640" height="894" alt="image" src="https://github.com/user-attachments/assets/bc63ef9d-939a-4441-afdc-470238dd4c9c" />
 
-<img width="640" height="858" alt="image" src="https://github.com/user-attachments/assets/e6433a2d-6b61-4fe9-a0be-fa8825dfc420" />
 <img width="640" height="963" alt="image" src="https://github.com/user-attachments/assets/6a8dc7b0-554d-4242-acb5-823bcf0059c6" />
 
 ### RESULT:
